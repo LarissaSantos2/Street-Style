@@ -1,4 +1,4 @@
-// Script for navigation bar
+// Script para o navbar
 const bar = document.getElementById('bar');
 const close = document.getElementById('close');
 const nav = document.getElementById('navbar');
