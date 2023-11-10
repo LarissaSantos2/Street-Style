@@ -1172,15 +1172,20 @@ footer .follow i{
   }
 
   /*------------------------Só-Um-Produto------------------------*/
-  #prodetalhes {
-    display: flex;
-    flex-direction: column;
-  }
+#prodetalhes {
+  display: flex;
+  flex-direction: column;
+}
 
-  #prodetalhes .só-um-produto {
-    width: 100%;
-    margin-right: 0px;
-  }
+#prodetalhes .so-um-produto {
+  width: 100%;
+  margin-right: 0px;
+}
+
+#prodetalhes .so-detalhes {
+  width: 100%;
+}
+
 
 
 
